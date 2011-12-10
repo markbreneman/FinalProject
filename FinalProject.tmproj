@@ -5,12 +5,14 @@
 	<key>documents</key>
 	<array>
 		<dict>
-			<key>filename</key>
-			<string>weshiptogether.rb</string>
-			<key>lastUsed</key>
-			<date>2011-12-09T22:31:49Z</date>
-			<key>selected</key>
+			<key>expanded</key>
 			<true/>
+			<key>name</key>
+			<string>FinalProject</string>
+			<key>regexFolderFilter</key>
+			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
+			<key>sourceDirectory</key>
+			<string></string>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
@@ -22,8 +24,31 @@
 	<key>showFileHierarchyPanel</key>
 	<true/>
 	<key>treeState</key>
-	<dict/>
+	<dict>
+		<key>FinalProject</key>
+		<dict>
+			<key>isExpanded</key>
+			<true/>
+			<key>subItems</key>
+			<dict>
+				<key>Ref</key>
+				<dict>
+					<key>isExpanded</key>
+					<true/>
+					<key>subItems</key>
+					<dict/>
+				</dict>
+				<key>db</key>
+				<dict>
+					<key>isExpanded</key>
+					<true/>
+					<key>subItems</key>
+					<dict/>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
 	<key>windowFrame</key>
-	<string>{{6, 58}, {960, 813}}</string>
+	<string>{{5, 58}, {960, 813}}</string>
 </dict>
 </plist>
